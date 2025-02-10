@@ -16,7 +16,6 @@
 ## Silme Süreci
 
 1. **İşlem Süresi:**
-   - Uygulama içi silme: Anında
    - E-posta ile talep: 24 saat içinde
 
 2. **Silinen Veriler:**
